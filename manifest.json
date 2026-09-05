@@ -1,11 +1,9 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "ppocr-plugin",
+	"name": "PP-OCR",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Run OCR on images via a self-hosted PP-OCR service and insert the recognized text into the editor.",
+	"author": "dev",
 	"isDesktopOnly": false
 }

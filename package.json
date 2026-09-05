@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "obsidian-ppocr-plugin",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "Run OCR on images via a self-hosted PP-OCR service and insert the recognized text into the editor.",
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
